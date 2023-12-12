@@ -1,4 +1,4 @@
-# Fullstackopen
+# FullStackOpen
 
 ## Deep Dive Into Modern Web Development
 
