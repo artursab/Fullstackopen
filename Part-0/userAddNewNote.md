@@ -25,3 +25,6 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: The browser executes the callback function that renders the notes
+
+
+    ![Снимок экрана 2023-12-12 183213](https://github.com/artursab/Fullstackopen/assets/107247506/d000fc2f-f703-4851-a704-026842aea861)
