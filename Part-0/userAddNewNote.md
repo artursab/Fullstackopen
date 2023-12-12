@@ -1,3 +1,4 @@
+
 sequenceDiagram
     participant browser
     participant server
@@ -27,4 +28,4 @@ sequenceDiagram
     Note right of browser: The browser executes the callback function that renders the notes
 
 
-    ![github-large](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=c2VxdWVuY2VEaWFncmFtCiAgICBwYXJ0aWNpcGFudCBicm93c2VyAAcRc2VydmVyCgArBQAdBy0-PgAQBjogR0VUIGh0dHBzOi8vc3R1ZGllcy5jcy5oZWxzaW5raS5maS9leGFtcGxlYXBwL25vdGVzAHUFYWN0aXZhdGUAVwggICAAYwctLT4-AIEFBzogSFRNTCBkb2N1bWVudACBLgVkZQArEABVRW1haW4uY3MAcC10aGUgY3NzIGZpbGUAO2FqAGoxSmF2YVNjcmlwdACBASFOb3RlIHJpZ2h0IG9mAIQCCDogVGhlAIQPCCBzdGFydHMgZXhlY3V0aW5nAFMQY29kZSB0aGF0IGZldGNoZXMAfgZTT04gZnJvbQCCKAUAg39MZGF0YS5qc29uAIQjLFt7ICJjb250ZW50IjogIgCEWQVpcyBlYXN5IiwgImRhdGUiOiAiMjAyMy0xLTEiIH0sIC4uLiBdAIF-PwCCMAYAgg0HY2FsbGJhY2sgZnVuY3Rpb24AgjEGcmVuZGVyAIIxBgCGIwU&s=default)
+   ![Снимок экрана 2023-12-12 183213](https://github.com/artursab/Fullstackopen/assets/107247506/3cb2b310-3aa2-4d56-88f2-63a0df447393)
