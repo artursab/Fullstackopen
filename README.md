@@ -1,6 +1,6 @@
-#Fullstackopen
+# Fullstackopen
 
-##Deep Dive Into Modern Web Development
+## Deep Dive Into Modern Web Development
 
 There're my exercises submissions for the [https://fullstackopen.com/](url)
 
