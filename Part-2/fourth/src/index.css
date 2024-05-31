@@ -1,0 +1,27 @@
+h2{
+    color: green;
+}
+
+.notification{
+    border: 7px solid rgb(11, 146, 53);
+    border-radius: 15px;
+    font-size: 1rem;
+    padding: 2rem;
+    background-color: rgb(117, 192, 117);
+    width: 100px;
+    margin: 1rem;
+    text-align: center;
+}
+
+
+.notification-success {
+    background-color: lightgreen;
+    border: 1px solid green;
+    color: green;
+  }
+  
+  .notification-error {
+    background-color: lightcoral;
+    border: 1px solid red;
+    color: red;
+  }
