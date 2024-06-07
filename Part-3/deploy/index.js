@@ -3,6 +3,12 @@ const morgan = require('morgan');
 const app = express();
 const cors = require('cors')
 
+const baseUrl = 'http://localhost:3001/api/persons'
+
+protocol: http
+host: example.com
+port: 80
+
 
 app.use(cors())
 app.use(morgan('tiny'));
